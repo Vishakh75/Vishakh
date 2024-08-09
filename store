@@ -1,0 +1,14 @@
+
+alert("heloo world")
+let a=20;
+let b=30;
+alert(a+b)
+
+function add(x,y){
+    var sum=x+y;
+    return sum;
+}
+var n=3
+var m=4
+var s=add(n,m)
+alert(s);
